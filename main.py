@@ -1,5 +1,5 @@
 from typing import List
-def twoSum(nums: List[int], target: int) -> List[int]:
+def twoSum(self, nums: List[int], target: int) -> List[int]:
     i = 0
     length = len(nums)
     while i < length - 1:
